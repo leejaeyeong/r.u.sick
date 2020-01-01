@@ -13,7 +13,7 @@
 |FragmentEmergency.java|응급상황에 조치할 수 있는 가이드를 제공한다.| 
 
 ### APK
-Download apk file here [r_u_seek v1.1](https://github.com/leejaeyeong/r.u.seek/blob/master/app/release/r_u_seek_v1.1.apk)
+Download apk file here [r_u_seek v1.1](https://github.com/leejaeyeong/r.u.seek/blob/master/app/release/raw/master/r_u_seek_v1.1.apk)
 ```
 https://github.com/leejaeyeong/r.u.seek/blob/master/app/release/r_u_seek_v1.1.apk
 ```
