@@ -7,13 +7,13 @@
 ### 소스코드 명세  
 |파일명|설명|
 |------|---|
-|FragmentMain.java|retrofit library를 통해 날씨 정보와 관련 편의서비스를 제공한다.|
-|FragmentCall.java|사람들이 잘 외우고 다니지 않는 긴급전화 번호를 빠르게 접근할 수 있다.|
-|FragmentDiagnosis.java|사용자의 증상 진단을 통해 예상되는 병명을 알려준다.|
+|FragmentMain.java|날씨 정보와 관련 편의서비스를 제공한다.|
+|FragmentCall.java|잘 외우고 다니지 않는 긴급전화 번호를 빠르게 접근할 수 있다.|
+|FragmentDiagnosis.java|증상 진단을 통해 예상되는 병명을 알려준다.|
 |FragmentEmergency.java|응급상황에 조치할 수 있는 가이드를 제공한다.| 
 
 ### APK
-Download apk file here [r_u_seek v1.1](https://github.com/dtrung98/Source/raw/master/music_player_v1_2.apk)
+Download apk file here [r_u_seek v1.1](https://github.com/leejaeyeong/r.u.seek/blob/master/app/release/r_u_seek_v1.1.apk)
 ```
 https://github.com/leejaeyeong/r.u.seek/blob/master/app/release/r_u_seek_v1.1.apk
 ```
