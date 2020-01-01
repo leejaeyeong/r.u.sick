@@ -1,0 +1,5 @@
+<resources>
+
+    <string name="baseUrl">http://apis.data.go.kr/B550928/dissForecastInfoSvc/getDissForecastInfo?serviceKey=8IzQiGEWMnQ6tH4cemZO3a1Rf%2F5StDeLKacMFY5km2r2ogzTlXccH1jvUFE%2FMn3UzmaF%2Fu%2BNB7%2BnxECVLi1i1Q%3D%3D&amp;numOfRows=2&amp;pageNo=1&amp;type=json&amp;dissCd=1&amp;znCd=44&amp;lowrnkZnCd=44131</string>
+
+</resources>
