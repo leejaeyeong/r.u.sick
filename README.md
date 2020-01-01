@@ -15,8 +15,6 @@
 ### APK
 Download apk file here [r_u_seek v1.1](https://github.com/leejaeyeong/r.u.seek/blob/master/app/release/r_u_seek_v1.1.apk?raw=true)
 ```
-
-
 https://github.com/leejaeyeong/r.u.seek/blob/master/app/release/r_u_seek_v1.1.apk
 ```
 ### 실행화면  
