@@ -4,7 +4,7 @@
 ### 왜 만들었나요? 
 몸이 아프고 컨디션이 안 좋을 때 바로 병원에 가서 진료를 받기 쉽지않은데, 병을 방치할 경우 처음 증상을 인지했을 때 보다 몸 상태가 악화되기 때문에 <b>"자가 진단을 할 수 있는 서비스를 만들면 어떨까?"</b>하는 생각에 만들었습니다.
 
-### 소스코드 명세  
+### 주요 소스코드  
 |파일명|설명|
 |------|---|
 |FragmentMain.java|날씨 정보와 관련 편의서비스를 제공한다.|
@@ -13,9 +13,9 @@
 |FragmentEmergency.java|응급상황에 조치할 수 있는 가이드를 제공한다.| 
 
 ### APK
-Download apk file here [r_u_seek v1.1](https://github.com/leejaeyeong/r.u.seek/blob/master/app/release/r_u_seek_v1.1.apk?raw=true)
+APK 다운로드 링크 [r_u_seek v1.1](https://github.com/leejaeyeong/r.u.sick/blob/master/app/release/r_u_sick_v1.1.apk)
 ```
-https://github.com/leejaeyeong/r.u.seek/blob/master/app/release/r_u_seek_v1.1.apk
+https://github.com/leejaeyeong/r.u.sick/blob/master/app/release/r_u_sick_v1.1.apk
 ```
 ### 실행화면  
 
